@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "name": "rohit",
+  "email": "rohit@gmail.com",
+
+  "addr": "Kharghar, Navi Mumbai, MH, 410210",
+
+  "address": {
+    "locality": "kharghar",
+    "city": "nvai mumbai",
+    "state": "MH",
+    "pincode": "410210"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "name": "abhijhit",
+  "email": "abcda@gmail.com",
+  "emails": ["abcd@gmail.com", "pqrus@gmail.com"],
+  "places": ["delhi", "mumbai"],
+  "actors": ["salman", "sharukh", "alia"],
+  "movies": ["matrix", "83", "pushpa"]
+}
